@@ -1,0 +1,3 @@
+Ensure that 'CHANS_SD_YRB_V1.mdl' and 'data_input_vensim_V1.xls' are in the same folder. 
+Then, open 'CHANS_SD_YRB_V1.mdl' using Vensim DSS software, click the Run button, and the model will execute. 
+'data_input_vensim_V1.xls' is the exogenous input data required for simulation.
