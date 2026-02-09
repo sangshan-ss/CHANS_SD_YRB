@@ -1,0 +1,4 @@
+'sensitivity_analysis_parameters.xlsx' is the summary of parameters for sensitivity analysis.
+'sensitivity_simulation.vdfx' is the simulation results for the sensitivity analysis, only support by the Vensim.
+'CHANS_SD_YRB_V1_Sensitivity.lst' and 'CHANS_SD_YRB_V1_Sensitivity.vsc' are required for Vensim to perform sensitivity analysis.
+‘sensitivity_analysis_parameters.xlsx’ is the summary of constant parameters vlaue for sensitivity analysis.
